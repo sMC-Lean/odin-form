@@ -185,6 +185,7 @@ a:hover {
   border-radius: 0.25rem;
   padding-left: 1ch;
   font-weight: 500;
+  max-width: 35ch;
 }
 
 .input-div > input:focus-visible {
